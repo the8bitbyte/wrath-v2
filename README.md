@@ -1,4 +1,4 @@
-# wrath-v2.42.4
+## wrath-v2.42.4
 
 wrath is a computer virus made by me with the help of chat gpt.
 this was made for fun, without malicious intent
