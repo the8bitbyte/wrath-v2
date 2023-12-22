@@ -1,4 +1,4 @@
-## wrath-v2.42.4
+## wrath-v2
 
 wrath is a computer virus made by me with the help of chat gpt.
 this was made for fun, without malicious intent
@@ -16,3 +16,9 @@ if you want to join the discord server with the webhook you can here: https://di
 5. press 1 to start or 2 to add the device as a blacklist
 6. when it starts it will ask you to run the powershell script, you can do this by either copy pasting the script into powershell or downloading it, right click > run with powershell (the script has some issues with it i will fix later :/ )
 7. after it infects your files it should be done.
+
+# changelog
+
+in wrath v2.42.5 i added a update checking and fixed a bug with post infectetion instructions. i will soon be switching some packages in favor of more stable ones.
+
+in wrath v2.24.6 (not released yet becuase small changes) fixed a bug with text on the terminal window when going from pre infection to post infection.
