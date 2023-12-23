@@ -22,3 +22,5 @@ if you want to join the discord server with the webhook you can here: https://di
  wrath v2.42.5 i added a update checking and fixed a bug with post infectetion instructions. i will soon be switching some packages in favor of more stable ones.
 
  wrath v2.24.6 fixed a bug with text on the terminal window when going from pre infection to post infection. fixed the update checker after i renamed the repo
+
+ wrath v2.42.7 (not released yet) plan to fix some issue with th ps1 script, it has some issues with errors etc
