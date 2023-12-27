@@ -22,4 +22,4 @@ wrath used a powershell script to bypass some restrictions implented by windows 
 
  wrath v2.24.6 fixed a bug with text on the terminal window when going from pre infection to post infection. fixed the update checker after i renamed the repo
 
- wrath v2.42.7 redid the update checking system and switched out a packaged ( i prob made a mistake somwhere im fuckin tired)
+ wrath v2.42.7 redid the update checking system and switched out a packaged (i just relised i fucked up the installer ill fix it later :p )
